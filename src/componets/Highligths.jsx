@@ -20,7 +20,7 @@ function Highlights() {
             <div className='bg-gray-900 rounded-3xl p-8'>
               <img
                 className='w-full rounded-2xl mb-4'
-                src='../../public/titanium-design.jpg'
+                src='/img/titanium-design.jpg'
                 alt='iphone titanium'
               />
               <h3 className='font-bold mb-2 text-3xl'>Titânium Premium</h3>
@@ -32,7 +32,7 @@ function Highlights() {
             <div className='bg-gray-900 rounded-3xl p-8'>
               <img
                 className='w-full rounded-2xl mb-4'
-                src='../../public/ios-features.jpg'
+                src='/img/ios-features.jpg'
                 alt='IOS 2025'
               />
               <h3 className='font-bold mb-2 text-3xl'>IOS 26</h3>
@@ -47,7 +47,7 @@ function Highlights() {
             <p className='text-gray-300 mb-6'>O chip mais poderoso em um smartphone</p>
             <img
               className='w-full rounded-2xl mb-4'
-              src='../../public/chip-a18-pro.jpg'
+              src='../../img/chip-a18-pro.jpg'
               alt='chip a18'
             />
 
